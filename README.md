@@ -4,6 +4,15 @@ This project aims to analyze whether passengers survived the Titanic disaster ba
 
 The project will study and analyze to better assess risks associated with maritime travel. Identify the key factors that contributed to survival during the Titanic disaster. Understanding these can help in risk assessment for future travel ventures or emergency planning in the hospitality and travel industries.
 
+### Methods:
+We will focus on creating some illustrative data visualizations. For the predictive modeling, I’ll be using a randomForest algorithm to predict survival on the Titanic. My script is divided into three parts:
+1.	Feature Engineering
+2.	Missing Value Imputation
+3.	Prediction!
+•	Exploratory Data Analysis (EDA): To understand the distribution and survival trends in the data based on age, sex, class.
+•	Data Visualization: Visualizations that highlight key findings.
+•	Regression Analysis: In this analysis, we are going to use 
+
 
 
 ## Installation
